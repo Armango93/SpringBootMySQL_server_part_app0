@@ -1,11 +1,11 @@
-package com.spring.boot.mysql.controller.controller;
+package com.spring.boot.mysql.controller;
 
-import com.spring.boot.mysql.controller.model.Book;
+import com.spring.boot.mysql.model.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.spring.boot.mysql.controller.repo.BookRepository;
+import com.spring.boot.mysql.repo.BookRepository;
 
 import javax.validation.Valid;
 import java.util.ArrayList;

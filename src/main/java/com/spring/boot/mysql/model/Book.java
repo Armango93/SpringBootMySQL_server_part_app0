@@ -1,4 +1,4 @@
-package com.spring.boot.mysql.controller.model;
+package com.spring.boot.mysql.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
