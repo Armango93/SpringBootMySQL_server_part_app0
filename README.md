@@ -2,7 +2,7 @@
 
 ## SpringBootMySQL_server_part_app0 is a server part of a microservice application, uses SpringBoot, MySql database.
 
-This server part of application is deployed on Heroku and has base url address - https://spring-boot-mysql-server-part0.herokuapp.com/ .
+This server part of application is deployed on Heroku and has base url address - https://spring-boot-mysql-server-part0.herokuapp.com .
 User or client part of application can use this address with adding part of url, which determined for every of available methods in this server.
 Methods are accessible to apply:
 * getAllBooks() - use with adding "/api/books/" to base url and through GET request
